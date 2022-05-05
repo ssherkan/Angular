@@ -8,9 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "sonar": "sonar-scanner",
-    "publishConfig":{
-      "registry":"http://localhost:8082/ui/admin/repositories/local/node-repo/"
-    },
+ 
   },
   "private": true,
   "dependencies": {
